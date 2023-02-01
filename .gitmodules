@@ -1,3 +1,6 @@
 [submodule "dashboard"]
 	path = dashboard
 	url = ./dashboard
+[submodule "corporate"]
+	path = corporate
+	url = ./corporate
